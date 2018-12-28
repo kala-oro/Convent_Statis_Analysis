@@ -46,4 +46,4 @@ After removing the default value, the sample size was reduced from 385256 to 309
 
 Data visualization:
 
-![avatar](http://github.com/kala-oro/Convent_Statis_Analysis/Analysis of influential factors of song popularity/imag/scatter_plot.png)
+![avatar](https://github.com/kala-oro/Convent_Statis_Analysis/blob/master/Analysis%20of%20influential%20factors%20of%20song%20popularity/imag/scatter_plot.png?raw=true)
