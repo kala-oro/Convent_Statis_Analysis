@@ -45,4 +45,5 @@ that have not been explained in the variable definition will be processed as the
 After removing the default value, the sample size was reduced from 385256 to 309685.
 
 Data visualization:
+
 ![avatar](/Analysis of influential factors of song popularity/imag/scatter_plot.png)
